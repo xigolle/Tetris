@@ -1,0 +1,11 @@
+body{
+
+}
+#playField{
+	width:500px;
+	margin:50px auto;
+}
+canvas{
+
+	/*background: url("../images/bg.png");*/
+}
